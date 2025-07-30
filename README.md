@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Hi there 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=lilonna&label=Profile%20views&color=0e75b6&style=flat)
+
+![Lilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilonna&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilonna&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lilonna&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **lilonna/lilonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
